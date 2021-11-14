@@ -3,14 +3,12 @@ using namespace std;
 
 int main(){
 	int GajiKaryawan, UMRDaerah;
-	
 	//input
 	cout << "Masukkan Nominal Gaji Anda\t : ";
 	cin >> GajiKaryawan;
 	cout << "Masukkan UMR Daerah Anda\t : ";
 	cin >> UMRDaerah;
-	cout << endl;
-	
+	cout << endl;	
 	//output
 	cout << "====================Output====================" << endl;   
 	if(GajiKaryawan<UMRDaerah){
