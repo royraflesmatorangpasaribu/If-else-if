@@ -7,8 +7,8 @@ int main()
     int cari;
     float A,B,C;
     cout<<"============================"<<endl;
-	cout<<"Program Menghitung Pytagoras"<<endl;
-	cout<<"============================"<<endl<<endl;
+    cout<<"Program Menghitung Pytagoras"<<endl;
+    cout<<"============================"<<endl<<endl;
     cout<<"Pilih Opsi yang mau di cari :"<<endl;
     cout<<"               "<<endl;
     cout<<"          /|   "<<endl;
