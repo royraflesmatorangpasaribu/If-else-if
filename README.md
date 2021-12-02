@@ -1,2 +1,2 @@
 # If-else-if
-Dengan Menggunkan Dev C++
+Program C++
