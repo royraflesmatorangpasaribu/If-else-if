@@ -1,5 +1,6 @@
 PERCABANGAN 
 sumber : http://constantac.blogspot.com/2017/03/pengertian-dan-contoh-pecabangan-c.html
+         https://www.belajarcpp.com/tutorial/cpp/switch/
 
 Sebuah program, biasanya tidak hanya bersifat linier, tetapi juga melakukan proses pengulangan dan melakukan pengambilan keputusan(decision). 
 Dalam bahasa c++ proses percabangan dapat menggunakan dua perintah, pertama erintah yang umum digunakan yaitu if else. Sedangkan untuk perintah 
@@ -30,3 +31,19 @@ else {
   If bersarang adalah kondisi jika pada kondisi id ternyata terdapat lebih dari satu alternatif. Yang perlu diperhatikan pada penggunaan perintah switch, 
   bahwa sebuah blok perintah yang bersesuaian akan dilaksanakan sampai ditemukan perintah break, sehingga apabila perintah break tidak ditemukan, maka blok perintah 
   pada konstanta yang lainpun akan dilaksanakan sampai ditemukan perintah break atau sampai mencapai akhir dari blok perintah switch.
+
+switch (kondisi )
+{
+   case konstanta-1 :
+         … perintah;
+         … perintah;
+   break;
+   case konstanta-2 :
+         … perintah;
+         … perintah;
+   break;
+   default :
+         … perintah;
+         … perintah;
+   break;
+}
