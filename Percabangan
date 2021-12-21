@@ -17,6 +17,14 @@ kedua dapat digunakan perintah switch dan perintah ke tiga adalah menggunakan pe
 2. Pernyataan If else
   Apabila hasil pemeriksaan kondisi ternyata tidak terpenuhi maka dapat ditambahkan perintah else untuk menjalankan sejumlah perintah yang ditetukan.
   
+if (kondisi){
+      pernyataan;
+}
+else {
+      pernyataan;
+}
+  
+  
 3. Pernyataan Switch
   Switch digunakan untuk menggantikan penggunaan if yang berurutan atau penggunaan if dalam if yang banyak. 
   If bersarang adalah kondisi jika pada kondisi id ternyata terdapat lebih dari satu alternatif. Yang perlu diperhatikan pada penggunaan perintah switch, 
