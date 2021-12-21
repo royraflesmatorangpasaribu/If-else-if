@@ -9,6 +9,11 @@ kedua dapat digunakan perintah switch dan perintah ke tiga adalah menggunakan pe
   Pernyataan If digunakan untuk menjalankan blok-blok kode program jika test condition yang digunakan bernilai true(benar). 
   Jika test condition bernilai true, maka blok-blok kode dijalankan. Jika tidak, maka blok-blok kode tersebut dilewati atau tidak dijalankan.
   
+  if (kondisi){
+      pernyataan;
+  }
+  
+  
 2. Pernyataan If else
   Apabila hasil pemeriksaan kondisi ternyata tidak terpenuhi maka dapat ditambahkan perintah else untuk menjalankan sejumlah perintah yang ditetukan.
   
