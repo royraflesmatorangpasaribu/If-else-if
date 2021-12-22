@@ -47,5 +47,4 @@ switch (kondisi )
    break;
 }
 
-
 Fungsi break adalah untuk melakukan stop jika perintah yang diberikan sudah di rasa cukup untuk case tersebut. 
