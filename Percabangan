@@ -15,7 +15,6 @@ kedua dapat digunakan perintah switch dan perintah ke tiga adalah menggunakan pe
       pernyataan;
   }
   
-  
 2. Pernyataan If else
   Apabila hasil pemeriksaan kondisi ternyata tidak terpenuhi maka dapat ditambahkan perintah else untuk menjalankan sejumlah perintah yang ditetukan.
   
@@ -25,7 +24,6 @@ if (kondisi){
 else {
       pernyataan;
 }
-  
   
 3. Pernyataan Switch
   Switch digunakan untuk menggantikan penggunaan if yang berurutan atau penggunaan if dalam if yang banyak. 
