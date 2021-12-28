@@ -37,4 +37,5 @@ int main(){
 	else{
 		cout<<"INPUTAN TIDAK SESUAI!!!";
 	}
+	//karena menggunakan fungsi main()
 }
