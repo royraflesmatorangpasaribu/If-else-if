@@ -6,6 +6,7 @@ using namespace std;
 
 int main(){
 	
+	//deklarasi variabel
 	int n;
 	
 	cout<<"============================="<<endl;
