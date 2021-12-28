@@ -1,7 +1,11 @@
 #include<iostream>
 using namespace std;
 
+//program ini dibuat oleh roy rafles matorang pasaribu
+//pada tanggal 28 Desember 2021
+
 int main(){
+	
 	int n;
 	
 	cout<<"============================="<<endl;
