@@ -38,4 +38,5 @@ int main(){
 		cout<<"INPUTAN TIDAK SESUAI!!!";
 	}
 	//karena menggunakan fungsi main()
+	return 0;
 }
