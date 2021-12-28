@@ -18,7 +18,9 @@ int main(){
 	cout<<"\n Pilih Angka (1,2,3) : ";
 	cin>>n;
 	
-	system("cls");
+	system("cls");  //untuk membersihkan layar pada program yang akan dijalankan sehingga pemrogram dapat menenentukan saat untuk menghapus data 
+			//yang telah dijalankan tanpa harus menutup program tersebut dan membukanya kembali.
+	
 	cout<<endl;
 	if(n==1){
 		cout<<"Kejarlah mimpimu, abaikan omongan orang yang berusaha mematikan mimpimu, jadikan omongan mereka sebagai motivasimu untuk sukses"<<endl;
