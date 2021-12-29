@@ -29,4 +29,5 @@ int main(){
 	else{
 		cout<<"Opsi yang kamu pilih gadaaa jadinya nutup deh cmdnya hehehe cuman ada opsi 1, 2, 3 yaaa";
 	}
+	return 0;
 }
