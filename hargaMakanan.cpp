@@ -29,5 +29,6 @@ int main(){
 		default:
 			cout<<"INPUTAN TIDAK SESUAI KAWAN!!!";
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
