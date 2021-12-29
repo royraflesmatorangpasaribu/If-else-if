@@ -15,8 +15,10 @@ int main(){
 	cout<<"2. Roi Rafles Matorang Pangaribuan"<<endl;
 	cout<<"3. Roy Raffles Matorang Pasaribu"<<endl<<endl;
 	cout<<"Pilih Jawaban Mu (1, 2, 3) : ";
+	//input
 	cin>>n;
 	
+	//output
 	if(n==1){
 		cout<<"ih kamu pinter banget, jawaban kamu BENAR!!!";
 	}
@@ -29,5 +31,6 @@ int main(){
 	else{
 		cout<<"Opsi yang kamu pilih gadaaa jadinya nutup deh cmdnya hehehe cuman ada opsi 1, 2, 3 yaaa";
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
