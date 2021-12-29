@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+//program dibuat oleh Roy Rafles Matorang Pasaribu
+//pada 29 Desember 2021
+
+//minimal terdapat satu fungsi 
 int main(){
 	char harga;
 	
