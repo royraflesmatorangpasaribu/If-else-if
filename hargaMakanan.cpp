@@ -19,13 +19,13 @@ int main(){
 	switch(harga){
 		case'1':
 			cout<<"Harga Mie Ayam : Rp.7000,00"<<endl;
-			break;
+			break;	//Fungsi break adalah untuk melakukan stop jika perintah yang diberikan sudah di rasa cukup untuk case tersebut.
 		case'2':
 			cout<<"Harga Bakso : Rp.6000,00"<<endl;
-			break;
+			break;	//Fungsi break adalah untuk melakukan stop jika perintah yang diberikan sudah di rasa cukup untuk case tersebut.
 		case'3':
 			cout<<"Harga Es tea : Rp.2000,00"<<endl;
-			break;
+			break;	//Fungsi break adalah untuk melakukan stop jika perintah yang diberikan sudah di rasa cukup untuk case tersebut.
 		default:
 			cout<<"INPUTAN TIDAK SESUAI KAWAN!!!";
 	}
