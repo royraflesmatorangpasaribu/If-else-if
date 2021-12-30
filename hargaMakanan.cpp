@@ -6,6 +6,7 @@ using namespace std;
 
 //minimal terdapat satu fungsi 
 int main(){
+	//deklarasi variabel
 	char harga;
 	
 	cout<<"Sistem untuk mengetahui harga Makanan di Rumah Makan Royrafmp"<<endl;
