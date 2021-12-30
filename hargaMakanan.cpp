@@ -14,6 +14,7 @@ int main(){
 	cout<<"2. Bakso"<<endl;
 	cout<<"3. Es tea"<<endl;
 	cout<<"Pilih makanan yang ingin diketahui harganya (1,2,3): ";
+	//input
 	cin>>harga;
 	
 	cout<<endl;
