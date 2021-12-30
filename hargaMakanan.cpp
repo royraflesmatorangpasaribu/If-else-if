@@ -18,6 +18,7 @@ int main(){
 	cin>>harga;
 	
 	cout<<endl;
+	//output
 	switch(harga){
 		case'1':
 			cout<<"Harga Mie Ayam : Rp.7000,00"<<endl;
