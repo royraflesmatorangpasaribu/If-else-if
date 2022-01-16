@@ -9,6 +9,7 @@ using namespace std;
 
 //fungsi utama
 int main() {
+    //deklarasi variabel
     int N,jam,menit,detik,tes;
     cin>> N;
     menit = N/60;
