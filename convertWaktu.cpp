@@ -38,5 +38,6 @@ int main() {
 		}
     }
     cout<<jam <<" jam "<<menit<< " menit "<<detik<< " detik ";
-    return 0;
+
+    return 0;	//karena menggunakan fungsi main()
 }
