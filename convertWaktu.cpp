@@ -11,6 +11,8 @@ using namespace std;
 int main() {
     //deklarasi variabel
     int N,jam,menit,detik,tes;
+	
+    //input
     cin>> N;
     menit = N/60;
     tes = N%60;
