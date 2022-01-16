@@ -7,6 +7,7 @@ using namespace std;
 
 //soal dari hackerrank
 
+//fungsi utama
 int main() {
     int N,jam,menit,detik,tes;
     cin>> N;
