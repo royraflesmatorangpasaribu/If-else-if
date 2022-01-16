@@ -17,11 +17,6 @@ int main() {
         jam = 0;
         detik = N%60;
     }
-//    else if(menit==60 && detik==0){
-//        jam = 1;
-//        menit = 0;
-//		detik = 0; 
-//    }
     else{
     	if(detik<60){
     		jam = 0;
