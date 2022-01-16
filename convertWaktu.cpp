@@ -5,6 +5,7 @@
 #include <algorithm>
 using namespace std;
 
+//soal dari hackerrank
 
 int main() {
     int N,jam,menit,detik,tes;
