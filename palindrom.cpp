@@ -23,5 +23,7 @@ int main(){
     cout<<"Angka tersebut adalah Palindrom";    
     else    
     cout<<"Angka tersebut bukan Palindrom";   
+	
+    //karena menggunakan fungsi main()
     return 0;  
 }  
