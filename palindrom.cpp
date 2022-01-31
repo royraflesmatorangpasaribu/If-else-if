@@ -1,6 +1,11 @@
 #include <iostream>  
 using namespace std;  
+
+//program dibuat pada 31 Januari 2022
+//oleh roy rafles matorang pasaribu
+
 int main(){  
+	
     int n,r,sum=0,temp;    
     
     cout<<"Palindrom Program"<<endl;
