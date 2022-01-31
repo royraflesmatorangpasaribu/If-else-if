@@ -5,7 +5,7 @@ using namespace std;
 //oleh roy rafles matorang pasaribu
 
 int main(){  
-//deklarasi variabel
+    //deklarasi variabel
     int n,r,sum=0,temp;    
     
     cout<<"Palindrom Program"<<endl;
