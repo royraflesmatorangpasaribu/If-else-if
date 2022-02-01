@@ -8,6 +8,7 @@ int main(){
     //deklarasi variabel
     int n,r,sum=0,temp;    
     
+    //judul program
     cout<<"Palindrom Program"<<endl;
     cout<<"Masukkan Angkanya : ";    
     cin>>n;    
