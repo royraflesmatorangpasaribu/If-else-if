@@ -13,6 +13,7 @@ int main(){
     //input
     cout<<"Masukkan Angkanya : ";    
     cin>>n;  
+	
     //menyimpan data sementara
     temp=n;  
 	  
