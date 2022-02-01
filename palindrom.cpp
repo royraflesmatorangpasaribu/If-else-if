@@ -12,7 +12,8 @@ int main(){
     cout<<"Palindrom Program"<<endl;
     //input
     cout<<"Masukkan Angkanya : ";    
-    cin>>n;    
+    cin>>n;  
+    //menyimpan data sementara
     temp=n;  
 	  
     while(n>0){    
