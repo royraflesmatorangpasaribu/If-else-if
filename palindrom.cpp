@@ -22,7 +22,8 @@ int main(){
     sum=(sum*10)+r;    
     n=n/10;    
     }  
-	 //output 
+    
+    //output 
     if(temp==sum)    
     cout<<"Angka tersebut adalah Palindrom";    
     else    
