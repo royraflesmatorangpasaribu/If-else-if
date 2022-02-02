@@ -17,6 +17,7 @@ int main(){
     //menyimpan data sementara
     temp=n;  
 	  
+    //pengecekan kondisi
     while(n>0){    
     r=n%10;    
     sum=(sum*10)+r;    
