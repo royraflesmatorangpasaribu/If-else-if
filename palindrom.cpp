@@ -10,6 +10,7 @@ int main(){
     
     //judul program
     cout<<"Palindrom Program"<<endl;
+	
     //input
     cout<<"Masukkan Angkanya : ";    
     cin>>n;  
