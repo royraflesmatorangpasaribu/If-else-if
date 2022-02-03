@@ -16,15 +16,15 @@ int main(){
 	cout<<"Masukkan Angkanya : ";    
 	cin>>n;  
 	
-    //menyimpan data sementara
-    temp=n;  
+	//menyimpan data sementara
+	temp=n;  
 	  
-    //pengecekan kondisi
-    while(n>0){    
-    r=n%10;    
-    sum=(sum*10)+r;    
-    n=n/10;    
-    }  
+	//pengecekan kondisi
+	while(n>0){    
+	r=n%10;    
+	sum=(sum*10)+r;    
+	n=n/10;    
+   	}  
     
     //output 
     if(temp==sum)    
