@@ -32,6 +32,6 @@ int main(){
 	else       
 	cout<<"Angka tersebut bukan Palindrom";   
 	
-    //karena menggunakan fungsi main()
-    return 0;  
+	//karena menggunakan fungsi main()
+	return 0;  
 }  
