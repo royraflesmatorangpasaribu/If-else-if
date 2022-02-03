@@ -6,16 +6,15 @@ using namespace std;
 
 //fungsi utama
 int main(){  
+	//deklarasi variabel
+	int n,r,sum=0,temp;    
+
+	//judul program
+	cout<<"Palindrom Program"<<endl;
 	
-    //deklarasi variabel
-    int n,r,sum=0,temp;    
-    
-    //judul program
-    cout<<"Palindrom Program"<<endl;
-	
-    //input
-    cout<<"Masukkan Angkanya : ";    
-    cin>>n;  
+	//input
+	cout<<"Masukkan Angkanya : ";    
+	cin>>n;  
 	
     //menyimpan data sementara
     temp=n;  
