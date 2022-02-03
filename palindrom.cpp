@@ -6,6 +6,7 @@ using namespace std;
 
 //fungsi utama
 int main(){  
+	
     //deklarasi variabel
     int n,r,sum=0,temp;    
     
